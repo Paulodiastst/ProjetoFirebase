@@ -65,7 +65,7 @@
         />
 
     <ProgressBar
-        android:id="@+id/pregressbar"
+        android:id="@+id/progressbar"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="20dp"
@@ -86,7 +86,7 @@
         android:textStyle="bold"
         android:layout_marginTop="20dp"
         android:layout_marginBottom="30dp"
-        app:layout_constraintTop_toBottomOf="@id/pregressbar"
+        app:layout_constraintTop_toBottomOf="@id/progressbar"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         />
